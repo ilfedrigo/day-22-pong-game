@@ -1,6 +1,7 @@
 # Pong Game
 
 This project is part of my 100 days of code in Python, and it represents my 22nd day.
+
 A simple implementation of the classic Pong game using Python and the Turtle graphics library.
 
 ## How to Play
