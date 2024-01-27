@@ -6,7 +6,7 @@ A simple implementation of the classic Pong game using Python and the Turtle gra
 
 ## How to Play
 
-- Control the left paddle using the 'w' key to move up and the 's' key to move down.
+- Control the left paddle using the **'w'** key to move up and the **'s'** key to move down.
 - Control the right paddle using the Up arrow key to move up and the Down arrow key to move down.
 
 ## Game Rules
